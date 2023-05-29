@@ -140,7 +140,8 @@ main #s3 p {
 }
 
 footer {
-    margin-bottom: 1.25rem;
+    position: fixed;
+    bottom: 1rem;
 }
 
 @media screen and (min-width:768px) {
